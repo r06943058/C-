@@ -98,14 +98,6 @@ class List{
 				++size;	
 			}
 			
-		
-			
-			
-			
-		
-
 };
 
 #endif
-
-
