@@ -111,14 +111,7 @@ class BST{
       			 if (p->right!=NULL)
 				    printPreOrder(p->right);
 				  }
-	        			  
-	        	
-	        	
-	        	
-		
+	        			  	
 };
-
-
-
 
 #endif
